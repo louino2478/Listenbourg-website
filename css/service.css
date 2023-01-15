@@ -1,0 +1,29 @@
+.service img{
+    width: 15vw;
+}
+
+.service p{
+    text-align: center;
+    font-family:"Marianne";
+    font-size: 30px;
+}
+
+.service h1{
+    text-align: center;
+    font-family:"spectral";
+    font-size: 3vw;
+}
+
+.service table{
+    margin:0 auto;
+    border-collapse: separate;
+    border-spacing: 10vw;
+}
+
+.description {
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: "Marianne";
+    padding-left: 5vw;
+    padding-right: 5vw;
+}

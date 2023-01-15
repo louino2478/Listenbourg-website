@@ -1,0 +1,30 @@
+.titrepage {
+    font-family:"spectral";
+    font-size: 3vw;
+    text-align: center;
+}
+
+.lieu img {
+    width: 30vw;
+}
+
+.lieu {
+    font-family: "Marianne";
+}
+
+.lieu td {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.lieu h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.lieu table{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}

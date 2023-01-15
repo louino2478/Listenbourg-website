@@ -1,0 +1,28 @@
+.logo{
+    text-align: center;
+}
+.titre{
+    text-align: center;
+    font-size: 2vw ;
+}
+.text{
+    text-align: center;
+    font-size: 1.5vw ;
+}
+
+.form{
+    text-align: center;
+}
+
+.form input{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 50vw;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+head + body {
+    font: 1em sans-serif;
+}

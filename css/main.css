@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "Marianne";
+    src:url("../asset/Marianne-Medium.otf") format("opentype");
+}
+@font-face {
+    font-family: "spectral";
+    src:url("../asset/Spectral-Italic.ttf")
+}
+
+
+
+.logo {
+    text-align:left;
+    height: 0px;
+}
+
+.login {
+    margin-right: 50px;
+    margin-top: 20px;
+    text-align:right;
+    height: 0px;
+}
+
+.titre {
+    text-align:center;
+    font-family:"Marianne";
+    color: black;
+    font-size:30px;
+}
+
+
+.menu {
+    margin-left:auto;
+    margin-right:auto;
+    width: 100vw - 1px;
+    font-family:"Marianne";
+    font-size:28px;
+    text-align:center;
+    text-decoration:none;
+    background-color: #666666;
+    text-decoration:none;
+    color:white;
+}
+.menu ul li {
+    display:inline;
+    margin: 0 3vw;
+}
+.menu ul li a {
+    text-decoration:none;
+    color:white;    
+}
+.menu ul li a:hover{
+    color: black;
+    border-bottom:4px solid black;
+}
+
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    font-family:"Marianne";
+    font-size: 0.8vw;
+}

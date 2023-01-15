@@ -1,0 +1,45 @@
+.gouvernement {
+    text-align: center;
+    font-size: 3vw;
+    font-family: "spectral";
+}
+
+.description {
+    text-align: center;
+    font-size: 1.5vw;
+    font-family: "Marianne";
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.gouv {
+    font-family: "Marianne";
+}
+
+.gouv img {
+    width: 15vw;
+}
+
+.gouv td {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.gouv table {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.gouv h2 {
+    text-decoration: underline;
+
+}
+
+.recrue {
+    color:grey;
+    font-size: 1vw;
+    font-family: "Marianne";
+    text-align: center;
+}
